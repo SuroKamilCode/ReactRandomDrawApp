@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactRandomDrawApp/static/css/main.38f3ef6e.css",
+    "main.js": "/ReactRandomDrawApp/static/js/main.e42e88ed.js",
+    "static/js/787.ad731f41.chunk.js": "/ReactRandomDrawApp/static/js/787.ad731f41.chunk.js",
+    "index.html": "/ReactRandomDrawApp/index.html",
+    "main.38f3ef6e.css.map": "/ReactRandomDrawApp/static/css/main.38f3ef6e.css.map",
+    "main.e42e88ed.js.map": "/ReactRandomDrawApp/static/js/main.e42e88ed.js.map",
+    "787.ad731f41.chunk.js.map": "/ReactRandomDrawApp/static/js/787.ad731f41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38f3ef6e.css",
+    "static/js/main.e42e88ed.js"
+  ]
+}
